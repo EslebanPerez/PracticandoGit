@@ -8,4 +8,5 @@ En este curso se prendera:
 - Creacion de un repositorio
 - Comandos basicos
 - Trabajo colaborativo
+- Trabajo con ramas remotas
 - ...
