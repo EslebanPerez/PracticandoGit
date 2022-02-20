@@ -6,4 +6,6 @@ En este curso se prendera:
 
 - Instalacion de git
 - Creacion de un repositorio
+- Comandos basicos
+- Trabajo colaborativo
 - ...
