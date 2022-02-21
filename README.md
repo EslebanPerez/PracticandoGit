@@ -10,3 +10,7 @@ En este curso se prendera:
 - Trabajo colaborativo
 - Trabajo con ramas remotas
 - ...
+
+## Rama development
+
+Ahora tenemos dos ramas en el proyecto
