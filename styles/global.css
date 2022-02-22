@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+body{
+    background: #282828;
+    color : #eee
+}
+
+.contenedor{
+    margin: 2rem;
+    padding: 1rem;
+}
+
+.master{
+    border:none;
+    margin : 0;
+}
